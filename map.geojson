@@ -33,6 +33,21 @@
           46.52060318945508
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "Basel",
+        "email": "info@netap.ch",
+        "nummer": 65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.592582702636719,
+          47.55938397557884
+        ]
+      }
     }
   ]
 }
