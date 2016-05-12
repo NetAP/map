@@ -60,6 +60,21 @@
           46.80146955033631
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "Zürich",
+        "email": "info@netap.ch",
+        "nummer": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.536376953125,
+          47.3751046548669
+        ]
+      }
     }
   ]
 }
