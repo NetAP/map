@@ -75,6 +75,21 @@
           47.3751046548669
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "Luzern",
+        "email": "info@netap.ch",
+        "nummer": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.300857543945312,
+          47.05702528260841
+        ]
+      }
     }
   ]
 }
