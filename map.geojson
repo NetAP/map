@@ -45,6 +45,21 @@
           47.55938397557884
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "Davos",
+        "email": "go@davos.net",
+        "nummer": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.826583862304688,
+          46.80146955033631
+        ]
+      }
     }
   ]
 }
