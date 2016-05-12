@@ -37,9 +37,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "",
-        "marker-size": "",
-        "marker-symbol": "",
         "adresse": "Basel",
         "email": "info@netap.ch",
         "nummer": 65
