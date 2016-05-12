@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "",
+        "marker-size": "",
+        "marker-symbol": "",
+        "adresse": "Olten",
+        "email": "olten@test.ch",
+        "nummer": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.905178070068359,
+          47.352547651608226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "Lausanne",
+        "email": "test@test.ch",
+        "nummer": "<3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62750244140625,
+          46.52060318945508
+        ]
+      }
+    }
+  ]
+}
