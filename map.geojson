@@ -90,6 +90,21 @@
           47.05702528260841
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "Lugano",
+        "email": "test",
+        "nummer": 123
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.95111083984375,
+          46.00983939593243
+        ]
+      }
     }
   ]
 }
