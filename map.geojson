@@ -4,9 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "",
-        "marker-size": "",
-        "marker-symbol": "",
         "adresse": "Olten",
         "email": "olten@test.ch",
         "nummer": 5
