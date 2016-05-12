@@ -105,6 +105,21 @@
           46.00983939593243
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "Sion",
+        "email": "sgi",
+        "nummer": "s12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.358436584472656,
+          46.22759050621931
+        ]
+      }
     }
   ]
 }
